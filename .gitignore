@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Model files (often large)
+*.pt
+*.pth
+*.bin
+*.h5
+*.onnx
+
+# Hugging Face cache
+.cache/
+
+# Environment variables
+.env
+.env.local
+
